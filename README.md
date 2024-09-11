@@ -18,5 +18,3 @@
 
 [![Correo electrónico](https://img.shields.io/badge/Correo-white?style=for-the-badge&logo=gmail)](mailto:ojedaezequiel083@gmail.com?Subject=Agenda%20De%20Entevista%20Para:)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-edgardo-ojeda/)
-
-[![Mis Programas en VB 6.0](https://img.youtube.com/vi/IzhOU61sYWI/0.jpg)](https://www.youtube.com/watch?v=IzhOU61sYWI)
