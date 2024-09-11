@@ -12,4 +12,4 @@
 
 💞️ Estoy buscando colaborar en proyectos de código abierto que tengan un impacto positivo.
 
-📫 Cómo contactarme: ¡Envíame un mensaje en LinkedIn!
+📫 Cómo contactarme: ¡Envíame un mensaje a mi LinkedIn!
