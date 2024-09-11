@@ -12,4 +12,10 @@
 
 💞️ Estoy buscando colaborar en proyectos de código abierto que tengan un impacto positivo.
 
-📫 Cómo contactarme: ¡Envíame un mensaje a mi LinkedIn!
+📫 Cómo contactarme: ¡Envíame un mensaje por correo electrónico o a mi LinkedIn!
+
+<br><br>
+## **Contacto:**
+
+[![Correo electrónico](https://img.shields.io/badge/Correo-white?style=for-the-badge&logo=gmail)](mailto:ojedaezequiel083@gmail.com?Subject=Agenda%20De%20Entevista%20Para:)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-edgardo-ojeza/)
