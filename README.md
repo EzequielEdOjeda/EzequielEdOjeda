@@ -18,10 +18,6 @@
 ### 💞️ Colaboraciones:
 - Buscando colaborar en proyectos de código abierto con impacto positivo.
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=EzequielEdOjeda&label=Vistas+de+Perfil&color=blue&style=for-the-badge" alt="Visitas al perfil"/>
-</p>
-
 ### 📫 ¿Cómo contactarme?
 <p align="left">
   <a href="mailto:ojedaezequiel083@gmail.com?Subject=Agenda%20de%20Entrevista%20Para:" target="_blank">
@@ -30,4 +26,8 @@
   <a href="https://www.linkedin.com/in/ezequiel-edgardo-ojeda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</p>
+<br>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=EzequielEdOjeda&label=Vistas+de+Perfil&color=blue&style=for-the-badge" alt="Visitas al perfil"/>
 </p>
