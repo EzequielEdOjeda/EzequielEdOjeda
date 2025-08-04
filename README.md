@@ -15,11 +15,11 @@
 - Jugar ajedrez y disfrutar de los desafíos mentales.
 - Aprender sobre *prompt engineering* y mejorar habilidades en programación.
 
-### 🤝 Colaboraciones:
+### 💞️ Colaboraciones:
 - Buscando colaborar en proyectos de código abierto con impacto positivo.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EzequielEdOjeda&label=Vistas+de+Perfil&color=blue&style=for-the-badge" alt="Visitas al perfil"/>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=EzequielEdOjeda&label=Vistas+de+Perfil&color=blue&style=for-the-badge" alt="Visitas al perfil"/>
 </p>
 
 ### 📫 ¿Cómo contactarme?
